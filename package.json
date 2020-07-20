@@ -14,7 +14,7 @@
   "dependencies": {
     "alpinejs": "^2.3.1",
     "fibers": "^5.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "tippy.js": "^6.2.3"
   },
   "devDependencies": {
